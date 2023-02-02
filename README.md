@@ -2,9 +2,13 @@
 
 <h2>I am Deyán Fabricio Guacarán Sabogal, Frontend Developer based in Gran Canaria, Canary Islands, Spain. I have extensive experience working in web development.</h2>
 
+<br/>
+
 - 🚀 I am currently working as a Growth Engineer for [Product Hackers](https://producthackers.com/).
 - 👨🏽‍💻 Always learning new things.
 - 🦇 Batman fan.
+
+<br/>
 
 ## 🛠️ My Skills
 
@@ -19,6 +23,8 @@
 ### Misc tools:
 
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)
+
+<br/>
 
 ## 📈 My GitHub Stats and Activity
 
