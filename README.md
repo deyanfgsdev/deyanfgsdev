@@ -6,6 +6,20 @@
 - 👨🏽‍💻 Always learning new things.
 - 🦇 Batman fan.
 
+## 🛠️ My Skills
+
+### Programming languages:
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,php,py)
+
+### Frontend development:
+
+![My Skills](https://skillicons.dev/icons?i=svelte,react,redux,html,css,sass,materialui,rollupjs,jest,webflow,wordpress)
+
+### Misc tools:
+
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)
+
 ## 📈 My GitHub Stats and Activity
 
 ### 💻 Profile Stats
