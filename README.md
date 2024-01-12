@@ -35,11 +35,3 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deyanfgsdev&layout=compact&theme=algolia)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=deyanfgsdev&theme=onedark)
-
-### 🔥 Streak Stats
-
-![Deyán's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=deyanfgsdev&theme=tokyonight)
-
-### 📊 Contribution Stats
-
-<img alt="Deyán's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=deyanfgsdev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
