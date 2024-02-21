@@ -18,7 +18,7 @@
 
 ### Frontend development:
 
-![My Skills](https://skillicons.dev/icons?i=svelte,react,redux,html,css,sass,materialui,rollupjs,jest,webflow,wordpress)
+![My Skills](https://skillicons.dev/icons?i=svelte,react,redux,html,css,sass,materialui,rollupjs,jest,cypress,webflow,wordpress)
 
 ### Misc tools:
 
