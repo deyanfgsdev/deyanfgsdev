@@ -22,7 +22,7 @@
 
 ### Misc tools:
 
-![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)
 
 <br/>
 
