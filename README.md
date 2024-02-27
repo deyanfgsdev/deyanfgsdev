@@ -4,7 +4,6 @@
 
 <br/>
 
-- 🚀 I am currently working as a Growth Engineer for [Product Hackers](https://producthackers.com).
 - 👨🏽‍💻 Always learning new things.
 - 🦇 Batman fan.
 
