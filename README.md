@@ -7,13 +7,6 @@
 <p>If you need to know more about me and my professional career, I will be happy to help you.</p>
 <p>Thank you very much!</p>
 
-<br/>
-
-- 👨🏽‍💻 Always learning new things.
-- 🦇 Batman fan.
-
-<br/>
-
 ## 🛠️ My Skills
 
 ### Programming languages:
