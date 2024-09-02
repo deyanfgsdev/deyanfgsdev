@@ -11,7 +11,7 @@
 
 ### Programming languages:
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,php,py)
+![My Skills](https://skillicons.dev/icons?i=js,ts,php)
 
 ### Frontend development:
 
