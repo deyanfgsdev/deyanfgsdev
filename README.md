@@ -1,11 +1,16 @@
-<h1 align="center">Hi👋🏽, I am Deyán!🦇</h1>
+<h1 align="center">Hi👋🏽, I'm Deyán!🦇</h1>
 
-<h2>I am Deyán Fabricio Guacarán Sabogal, Frontend Developer based in Gran Canaria, Canary Islands, Spain. I have extensive experience working in web development.</h2>
+A passionate Frontend Developer based in Gran Canaria, Canary Islands, Spain.
 
-<p>I am a developer with extensive experience working in web development. Currently, my speciality is Frontend development and I would like to continue my professional career in this field. In addition, in recent years I have also worked with analytics tools that helped in the growth of businesses or digital products through the scientific method of experimentation.<p>
-<p>I consider myself a proactive person, responsible and eager to learn every day.</p>
-<p>If you need to know more about me and my professional career, I will be happy to help you.</p>
-<p>Thank you very much!</p>
+## About me
+
+I am a seasoned web developer with a strong focus on Frontend development, where I aim to continue growing my professional career. Throughout my journey, I have not only mastered modern web technologies but also gained valuable experience with analytics tools, helping businesses and digital products grow through data-driven experimentation and scientific methodologies.
+
+I pride myself on being a proactive and responsible professional with an insatiable appetite for learning. My commitment to continuous improvement drives me to stay updated with the latest industry trends and best practices.
+
+I'm always open to discussing new opportunities and sharing insights about my professional journey. Feel free to reach out!
+
+Let's connect! 👋
 
 ## 🛠️ My Skills
 
