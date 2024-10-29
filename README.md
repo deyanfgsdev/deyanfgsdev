@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋🏽, I'm Deyán!🦇</h1>
+<h1 align="center">Hi, I'm Deyán!🦇</h1>
 
 A passionate Frontend Developer based in Gran Canaria, Canary Islands, Spain.
 
@@ -10,7 +10,7 @@ I pride myself on being a proactive and responsible professional with an insatia
 
 I'm always open to discussing new opportunities and sharing insights about my professional journey. Feel free to reach out!
 
-Let's connect! 👋
+Let's connect! 👋🏽
 
 ## 🛠️ My Skills
 
