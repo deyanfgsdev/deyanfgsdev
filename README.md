@@ -16,17 +16,15 @@ Let's connect! 👋🏽
 
 ### Programming languages:
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,php)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,php)
 
 ### Frontend development:
 
-![My Skills](https://skillicons.dev/icons?i=svelte,react,redux,html,css,sass,materialui,rollupjs,vite,jest,cypress,webflow,wordpress)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,redux,svelte,html,css,sass,materialui,vite,rollupjs,jest,vitest,cypress,playwright,webflow,wordpress)
 
 ### Misc tools:
 
-![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,figma)
-
-<br/>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,bitbucket,vscode,figma,jira,notion,slack,teams)
 
 ## 📈 My GitHub Stats and Activity
 
