@@ -24,7 +24,7 @@ Let's connect! 👋🏽
 
 ### Misc tools:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,bitbucket,vscode,figma,jira,notion,slack,teams)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,bitbucket,vscode,figma,jira,notion,miro,slack,teams)
 
 ## 📈 My GitHub Stats and Activity
 
