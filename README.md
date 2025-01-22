@@ -20,7 +20,7 @@ Let's connect! 👋🏽
 
 ### Frontend development:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,redux,zustand,reactquery,svelte,html,css,sass,materialui,vite,rollupjs,nodejs,jest,vitest,cypress,playwright,webflow,wordpress)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,redux,zustand,reactquery,svelte,html,css,sass,tailwindcss,materialui,vite,rollupjs,nodejs,jest,vitest,cypress,playwright,webflow,wordpress)
 
 ### Misc tools:
 
