@@ -16,7 +16,7 @@ Let's connect! 👋🏽
 
 ### Programming languages:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,php)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript)
 
 ### Frontend development:
 
