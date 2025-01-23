@@ -14,15 +14,15 @@ Let's connect! 👋🏽
 
 ## 🛠️ My Skills
 
-### Programming languages:
+### Programming languages
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript)
 
-### Frontend development:
+### Frontend development
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,redux,zustand,reactquery,svelte,html,css,sass,tailwindcss,materialui,vite,rollupjs,nodejs,jest,vitest,cypress,playwright,webflow,wordpress)
 
-### Misc tools:
+### Misc tools
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,bitbucket,vscode,figma,jira,notion,miro,slack,teams)
 
