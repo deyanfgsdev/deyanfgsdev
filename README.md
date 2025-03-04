@@ -1,16 +1,14 @@
 <h1 align="center">Hi, I'm Deyán!🦇</h1>
 
-A passionate Frontend Developer based in Gran Canaria, Canary Islands, Spain.
-
 ## About me
 
-I am a seasoned web developer with a strong focus on Frontend development, where I aim to continue growing my professional career. Throughout my journey, I have not only mastered modern web technologies but also gained valuable experience with analytics tools, helping businesses and digital products grow through data-driven experimentation and scientific methodologies.
+A frontend developer with over 3 years of experience, currently specializing in React to build scalable and high-performance web applications. I focus on developing accessible and efficient interfaces, prioritizing user experience and maintainable, scalable code.
 
-I pride myself on being a proactive and responsible professional with an insatiable appetite for learning. My commitment to continuous improvement drives me to stay updated with the latest industry trends and best practices.
+I have a strong background in A/B testing and analytics tools, allowing me to create frontend solutions aligned with conversion optimization and data-driven decision-making.
 
-I'm always open to discussing new opportunities and sharing insights about my professional journey. Feel free to reach out!
+I continue perfecting my skills in the React ecosystem through personal projects and my continuous learning.
 
-Let's connect! 👋🏽
+Let's connect!👋🏽
 
 ## 🛠️ My Skills
 
