@@ -2,11 +2,9 @@
 
 ## About me
 
-A frontend developer with over 3 years of experience, currently specializing in React to build scalable and high-performance web applications. I focus on developing accessible and efficient interfaces, prioritizing user experience and maintainable, scalable code.
+A frontend developer with over 3 years of experience, focusing on React to build scalable and high-performance web applications. I specialize in developing accessible and efficient interfaces, prioritizing user experience and clean, scalable, and maintainable code.
 
-I have a strong background in A/B testing and analytics tools, allowing me to create frontend solutions aligned with conversion optimization and data-driven decision-making.
-
-I continue perfecting my skills in the React ecosystem through personal projects and my continuous learning.
+I have experience in A/B testing and analytical tools, which allows me to develop frontend solutions aligned with conversion optimization and data analysis. Additionally, I continue strengthening my skills in the React ecosystem through personal projects and continuous learning, applying best practices and staying up-to-date with the latest trends in frontend development.
 
 Let's connect!👋🏽
 
