@@ -2,9 +2,9 @@
 
 ## About me
 
-Hi! I’m Deyán, a frontend developer with over 3 years of experience in this area. I specialize in developing accessible and efficient interfaces, prioritizing user experience and clean, scalable, and maintainable code.
+Hi! I’m Deyán, a frontend developer with over 5 years of experience in this area. I specialize in developing accessible and efficient interfaces, prioritizing user experience and clean, scalable, and maintainable code.
 
-I have experience in A/B testing and analytical tools, which allows me to make the best data-driven decisions. Currently, I continue to strengthen my skills in React and its ecosystem through personal projects and continuous learning, applying best practices and keeping up to date with the latest trends in frontend development.
+I also have experience in A/B testing and analytical tools, which allows me to make the best data-driven decisions. Currently, I continue to strengthen my skills in React and its ecosystem through personal projects and continuous learning, applying best practices and keeping up to date with the latest trends in frontend development.
 
 Let's connect!👋🏽
 
