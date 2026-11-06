@@ -21,13 +21,3 @@ Let's connect!👋🏽
 ### Misc tools
 
 ![Tools: Git, GitHub, GitHub Actions, Bitbucket, AWS, VS Code, Figma, Jira, Notion, Miro, Slack and Teams](https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,bitbucket,aws,vscode,figma,jira,notion,miro,slack,teams)
-
-## 📈 My GitHub Stats and Activity
-
-### 💻 Profile Stats
-
-![Deyán's GitHub stats: commits, PRs, issues and stars](https://github-readme-stats.vercel.app/api?username=deyanfgsdev&theme=tokyonight&show_icons=true)
-
-![Most used languages in Deyán's repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=deyanfgsdev&layout=compact&theme=algolia)
-
-![Deyán's GitHub trophies](https://github-profile-trophy.vercel.app/?username=deyanfgsdev&theme=onedark)
