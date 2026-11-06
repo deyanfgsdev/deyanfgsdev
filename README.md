@@ -12,22 +12,22 @@ Let's connect!👋🏽
 
 ### Programming languages
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript)
+![Programming languages: JavaScript and TypeScript](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript)
 
 ### Frontend development
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,redux,zustand,reactquery,svelte,html,css,sass,tailwindcss,materialui,vite,rollupjs,nodejs,jest,vitest,cypress,playwright,webflow,wordpress)
+![Frontend development: React, Redux, Zustand, React Query, Svelte, HTML, CSS, Sass, Tailwind CSS, Material UI, Vite, Rollup, Node.js, Jest, Vitest, Cypress, Playwright, Webflow and WordPress](https://go-skill-icons.vercel.app/api/icons?i=react,redux,zustand,reactquery,svelte,html,css,sass,tailwindcss,materialui,vite,rollupjs,nodejs,jest,vitest,cypress,playwright,webflow,wordpress)
 
 ### Misc tools
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,bitbucket,aws,vscode,figma,jira,notion,miro,slack,teams)
+![Tools: Git, GitHub, GitHub Actions, Bitbucket, AWS, VS Code, Figma, Jira, Notion, Miro, Slack and Teams](https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,bitbucket,aws,vscode,figma,jira,notion,miro,slack,teams)
 
 ## 📈 My GitHub Stats and Activity
 
 ### 💻 Profile Stats
 
-![Deyán's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deyanfgsdev&theme=tokyonight&show_icons=true)
+![Deyán's GitHub stats: commits, PRs, issues and stars](https://github-readme-stats.vercel.app/api?username=deyanfgsdev&theme=tokyonight&show_icons=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deyanfgsdev&layout=compact&theme=algolia)
+![Most used languages in Deyán's repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=deyanfgsdev&layout=compact&theme=algolia)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=deyanfgsdev&theme=onedark)
+![Deyán's GitHub trophies](https://github-profile-trophy.vercel.app/?username=deyanfgsdev&theme=onedark)
